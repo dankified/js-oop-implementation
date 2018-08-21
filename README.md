@@ -1,3 +1,8 @@
+## Setup
+1. Clone this repo.
+2. Change directory into the cloned folder.
+3. Run ```npm install``` in your console.
+
 ## Instructions 
 1. Create a **Drink** class. 
 2. Each **instance** of this **class** should have the following properties: name, brand, flavor. flavor is an optional parameter with a default value of **null**. 
