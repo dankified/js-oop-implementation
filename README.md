@@ -2,6 +2,7 @@
 1. Clone this repo.
 2. Change directory into the cloned folder.
 3. Run ```npm install``` in your console.
+4. Run ```npm run test``` in your console.
 
 ## Instructions 
 1. Create a **Drink** class. 
